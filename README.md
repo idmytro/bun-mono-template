@@ -1,1 +1,1 @@
-# pnpm-mono-template
+# bun-mono-template
