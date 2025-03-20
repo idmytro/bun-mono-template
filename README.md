@@ -1,7 +1,7 @@
 # bun-mono-template
 
 ```bash
-npx degit idmytro/rbun-mono-template .
+npx degit idmytro/bun-mono-template .
 ```
 -----
 
